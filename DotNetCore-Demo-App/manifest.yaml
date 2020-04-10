@@ -1,0 +1,10 @@
+---
+applications:
+- name: DotNetCore-Demo-App
+  random-route: true
+  memory: 512M
+  instances: 1
+  path: DotNetCore-Demo-App/bin/Release/netcoreapp2.1/publish/
+  buildpacks:
+  - dotnet_core_buildpack
+

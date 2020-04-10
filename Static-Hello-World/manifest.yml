@@ -1,0 +1,9 @@
+---
+applications:
+- name: Static-Hello-World
+  random-route: true
+  memory: 64M
+  instances: 1
+  path: .
+  buildpacks:
+  - staticfile_buildpack

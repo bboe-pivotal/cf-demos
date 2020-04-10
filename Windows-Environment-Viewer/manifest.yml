@@ -1,0 +1,9 @@
+---
+applications:
+- name: Windows-Environment-Viewer
+  random-route: true
+  memory: 512m
+  stack: windows
+  path: ViewEnvironment
+  buildpacks:
+  - hwc_buildpack
