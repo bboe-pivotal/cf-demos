@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.0.RC1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.0.RC1/6e2fb39cfc2271c52c7bfa9b2f75d7ced8a86c2e/spring-boot-autoconfigure-1.5.0.RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.0.RC1/cd4c09db1599413a811932418565fef9dba51af0/spring-boot-autoconfigure-1.5.0.RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
